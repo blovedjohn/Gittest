@@ -8,7 +8,7 @@ function NewPage(){
 
         <div className="jerrico">
         <img src="https://payhip.com/cdn-cgi/image/format=auto,width=500/https://pe56d.s3.amazonaws.com/o_1gqgn3pmb1qkusq9i2paih1ams17.png"  id="" width="70%"/>
-        <p  className="zee">Afrobeat Guilter Melody loop kit <br/> 'CHERRY'(Burna Boy, Wizkid, <br/> Rema) $0.00.</p>
+        <p  className="zee">Afrobeats Guilter Melody loop kit <br/> 'CHERRY'(Burna Boy, Wizkid, <br/> Rema) $0.00.</p>
         </div>
 
         <div className="jup">

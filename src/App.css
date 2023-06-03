@@ -1,0 +1,538 @@
+body{
+    background-color: whitesmoke;
+    margin: 0;
+}
+
+.headers{
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    padding: 1px;
+}
+
+.nav2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15px;
+    position: relative;
+    left: 12rem;
+    bottom: 0.6rem;
+}
+
+#images{
+    padding-left: 13rem;
+    padding-bottom:0.6rem;
+}
+
+#images1{
+    padding-bottom: 0.9rem;
+}
+
+ .beat{
+    background-image: url("../public/image/wall.jfif");
+    background-repeat: repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 350px;
+    position: relative;
+    left: rem;
+    text-align: center;
+    color: white;
+}
+
+.long{
+    text-align: center;
+    position: relative;
+    left: 16rem;
+}
+
+.shop{
+    background-color: blue;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 10%;
+    position: relative;
+    left: 28rem;
+    bottom: 1rem;
+}
+
+#all{
+    text-decoration: underline;
+}
+
+.Firsty{
+    position: relative;
+    left: 18rem;
+}
+
+.heady{
+    position: relative;
+    top: 2rem;
+}
+
+.gallaxy{
+    display: flex;
+    position: relative;
+    left: 3rem;
+    bottom: 13rem;
+}
+
+
+#pett{
+    position: relative;
+    left: 2rem;
+}
+
+
+.third{
+    position: relative;
+    top: 1.7rem;
+    left: 3.4rem;
+    padding-left: 2rem;
+}
+
+.thirdy{
+    position: relative;
+    left: 5rem;
+    width: 16%;
+}
+
+.inside{
+    position: relative;
+    top: 7rem;
+}
+
+#grey{
+    color: whitesmoke;
+    font-size: 1rem;
+    position: relative;
+    bottom: 1.4rem;
+}
+
+#grape{
+    font-size: 2.4rem;
+}
+
+.Aff{
+    position: relative;
+    bottom:3rem ;
+}
+
+.behance{
+    position: relative;
+    left:2rem ;
+}
+
+.loops{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 20px;
+    position: relative;
+    top: 3rem;
+    left: 2rem;
+}
+
+#border{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 5%;
+    position: relative;
+    left: 24rem;
+    bottom: 7rem;
+}
+
+#borders{
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 5%;
+    position: relative;
+    left: 43rem;
+    top: 6rem;
+}
+
+#bord{
+    position: relative;
+    right:20.4rem;
+    font-size: 1.4rem;
+}
+
+.footer{
+    text-align: center;
+    position: relative;
+    bottom:3rem;
+}
+
+.pen{
+    background-color: white;
+    padding: 1px;
+    width: 100%;
+    position: relative;
+    bottom: 3rem;
+}
+
+#pak{
+
+    position: relative;
+    left: 6rem;
+}
+
+#paks{
+
+    position: relative;
+    right: 2rem;
+}
+
+
+.lov{
+    position: relative;
+    bottom: 1rem;
+    left: 4.2rem;
+}
+
+
+.lot{
+    position: relative;
+    top: 4rem;
+}
+
+
+.loopy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   position: relative; 
+   bottom: 4rem;
+}
+
+#ves{
+position: relative;
+right: 10rem;
+}
+
+#ven{
+        position: relative;
+        right: 8rem;
+        bottom: 2rem;
+}
+
+#vep{
+        position: relative;
+        right: 7rem;
+}
+
+#vel{
+        position: relative;
+        left: 5rem;
+}
+
+.andex{
+    
+    display: flex;
+    position: relative;
+    left: 5rem;
+    padding-left: 2rem;
+}
+
+#andy{
+    border-radius: 50%;
+    height: 8%;
+    width: 8%;
+    padding: 8px;
+}
+
+.twiter{
+    display: flex;
+    padding-left: 15px;
+    position: relative;
+    top: 1.2rem;
+    left: 5rem;
+}
+
+.data{
+    position: relative;
+    left: 5rem;
+    bottom: 3rem;
+}
+
+.bet{
+    position: relative;
+    right: 1.5rem;
+}
+
+.ben{
+    position: relative;
+    right: 2.4rem;
+}
+
+.bep{
+    position: relative;
+    right: 2rem;
+}
+
+#laty{
+    position: relative;
+    left: 2rem;
+}
+
+
+.ped{
+position: relative;
+left: 10rem;
+}
+
+
+#peg{
+    position: relative;
+    left: 7rem;
+    }
+
+    
+.sed{
+    position: relative;
+    left:4rem;
+    }
+
+    .dip{
+        position: relative;
+        left: 9rem;
+    }
+
+    .pip{
+        position: relative;
+        left: 13rem;
+    }
+
+
+    
+#pick{
+    position: relative;
+
+}
+
+#tick{
+    position: relative;
+    
+}
+
+#lick{
+    position: relative;
+
+}
+
+#brop{
+    position: relative;
+    left: 9rem;
+}
+
+#prod{
+    position: relative;
+    left: 10rem;
+}
+
+
+#props{
+    position: relative;
+    left: 10rem;
+}
+
+#prot{
+    position: relative;
+    left: 9rem;
+}
+
+.lek{
+    position: relative;
+    right:21.4rem;
+}
+
+.tech{
+        position: relative;
+        left:9.4rem;
+}
+
+.pep{
+    position: relative;
+    left:15.4rem;
+}
+
+.gal{
+    position: relative;
+    left:20rem;
+    top: 3rem;
+}
+
+.lut{
+    position: relative;
+    left:17rem;
+}
+
+.lup{
+    position: relative;
+    left: 11rem;
+}
+
+.lopp{
+    position: relative;
+    left: 10rem;
+}
+
+#vic{
+    
+    position: relative;
+    right: 10rem;
+}
+
+.four{
+    display: flex;
+    position:relative;
+    bottom:7rem;
+    left: 3rem;
+}
+
+.camp{
+position: relative;
+left:12rem;
+}
+
+
+.oyin{
+    position: relative;
+    left: 10rem;
+    bottom: 1.6rem;
+}
+
+.produce{
+    position: relative;
+    left: 24rem;
+    bottom: 7rem;
+
+}
+
+.omen{
+    position: relative;
+    left: 1.2rem;
+    }
+
+    
+.cant{
+    position: relative;
+    left: 5rem;
+    }
+
+    .box{
+        position: relative;
+        left: 8rem;
+        }
+
+        .buss{
+            position: relative;
+            left: 20rem;
+            }
+
+            .bus{
+                position: relative;
+                left: 28rem;
+            }
+
+            .newp{
+                display: flex;
+                position: relative;
+                bottom:5rem;
+               
+            }
+
+            .jup{
+                position: relative;
+                right: 12rem;
+               
+            }
+
+            .jerrico{
+                position: relative;
+                right: 4.4rem; 
+            }
+
+            .jerry{
+                position: relative;
+                left: 3rem; 
+            }
+
+            .zin{
+                position: relative;
+                left: 5rem; 
+            }
+
+            .zee{
+                position: relative;
+                left: 5rem; 
+            }
+
+            .zip{
+                position: relative;
+                left: 9rem; 
+            }
+
+
+
+            .Landy{
+                display: flex;
+                position: relative;
+                bottom:2rem;
+                right: 6.4rem;
+            }
+
+            .lolo{
+
+                position: relative;
+                left: 6rem;
+            }
+
+            
+            .lee{
+
+                position: relative;
+                right: 3rem;
+            }
+
+            
+            .ned{
+
+                position: relative;
+                right: 3rem;
+            }
+
+            .let{
+
+                position: relative;
+                left: 6rem;
+            }
+
+            .low{
+                position: relative;
+                left: 14rem;
+            }
+
+            .cop{
+                position: relative;
+                left: 37rem;
+                top: 6rem;
+            }
+
+            #eap{
+                font-size: 1.4rem;
+            }
